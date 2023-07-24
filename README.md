@@ -1,4 +1,4 @@
-# Clustering_Assignment
+# Assignment_Clustering
 
 ## 1. Content
 # Problem Statement
